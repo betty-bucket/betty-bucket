@@ -1,6 +1,20 @@
-[![Evelyn's Header](https://raw.githubusercontent.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)](https://www.evelyncoulson.com/)
+[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)]
 
-### Hi there 👋
+<p align='center'>
+    <a href="https://www.instagram.com/evelyncoulson/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/evelyn-coulson-76787689/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/linkedin.jpg?raw=true"></a>
+</p>
+
+### Hi there! My name is Evelyn 👋
+
+<p>I'm a full-stack developer and recent grad of Enspiral Dev Academy, Auckland, NZ. </p>
+
+### 🌱 I’m currently learning...
+
+<p> R programming language, Gatsby and React hooks.</p>
+
+### ⚡ Fun fact:
+<p> I'm a circus artist! I can code while I'm hula hooping </p>
 
 <!--
 **betty-bucket/betty-bucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
