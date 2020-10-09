@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/betty-bucket/IMG_8777.jpg "Header")](https://www.evelyncoulson.com/)
+[![Evelyn's Header](https://raw.githubusercontent.com/betty-bucket/betty-bucket/IMG_8777.jpg)](https://www.evelyncoulson.com/)
 
 ### Hi there 👋
 
