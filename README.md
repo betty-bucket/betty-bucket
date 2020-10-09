@@ -1,4 +1,4 @@
-[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)]()
+[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)]
 
 <p align='center'>
     <a href="https://www.instagram.com/evelyncoulson/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/instagram.jpg"></a>&nbsp;&nbsp;
