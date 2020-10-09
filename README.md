@@ -1,4 +1,4 @@
-[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)](https://www.linkedin.com/in/evelyn-coulson-76787689/)
+[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)]()
 
 <p align='center'>
     <a href="https://www.instagram.com/evelyncoulson/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/instagram.jpg"></a>&nbsp;&nbsp;
@@ -7,7 +7,7 @@
 
 ### Hi there! My name is Evelyn 👋
 
-<p>I'm a full-stack developer and recent grad of Enspiral Dev Academy, Auckland, NZ. </p>
+<p>I'm a full stack web developer and recent grad of Enspiral Dev Academy, Auckland, NZ. </p>
 
 ### 🌱 I’m currently learning...
 
