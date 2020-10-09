@@ -1,8 +1,8 @@
-[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)]
+[![Evelyn's Header](https://github.com/betty-bucket/betty-bucket/blob/main/BannerStyle.jpg)](https://www.linkedin.com/in/evelyn-coulson-76787689/)
 
 <p align='center'>
-    <a href="https://www.instagram.com/evelyncoulson/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/evelyn-coulson-76787689/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/linkedin.jpg?raw=true"></a>
+    <a href="https://www.instagram.com/evelyncoulson/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/instagram.jpg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/evelyn-coulson-76787689/"><img height="30" src="https://github.com/betty-bucket/betty-bucket/blob/main/icon/linkedin.png"></a>
 </p>
 
 ### Hi there! My name is Evelyn 👋
