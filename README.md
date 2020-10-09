@@ -1,4 +1,4 @@
-[![Evelyn's Header](https://raw.githubusercontent.com/betty-bucket/betty-bucket/main/IMG_8777.jpg)](https://www.evelyncoulson.com/)
+[![Evelyn's Header](https://raw.githubusercontent.com/betty-bucket/betty-bucket/blob/main/IMG_8777.jpg)](https://www.evelyncoulson.com/)
 
 ### Hi there 👋
 
