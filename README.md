@@ -14,7 +14,7 @@
 <p> R programming language, Gatsby and React hooks.</p>
 
 ### ⚡ Fun fact:
-<p> I'm a circus artist! I can code while I'm hula hooping </p>
+<p> I'm a circus artist! I can code while I'm hula hooping. </p>
 
 <!--
 **betty-bucket/betty-bucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
